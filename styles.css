@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+    background-color: #73BEFF;
+}
+
+nav {
+    background-color: #E27CAF;
+    height: 100px;
+    width: 100%;
+    padding: 0;
+    position: fixed;
+}
+
+.logo {
+    background-color: #E27CAF;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.heroImg {
+    width: 100%;
+    margin-top: 100px;
+}
