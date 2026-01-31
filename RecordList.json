@@ -1,0 +1,154 @@
+{
+    "AlbumCount": 3,
+    "Albums": [
+        {
+            "ID": 1,
+            "Name": "Liż mi sutki",
+            "ReleaseDate": "8.11.2025",
+            "ThemeColorHex": "#F86E9D",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca",
+                "Hibietto Dragina:Wykonawca gościnny",
+                "Ada:Wykonawca gościnny",
+                "Dagmarka Trela:Wykonawca gościnny"
+            ],
+            "SingerString": "Elżbietka",
+            "AssetBundle": "lms",
+            "Visible": true,
+            "DeluxeTrack": true
+        },
+        {
+            "ID": 2,
+            "Name": "Fucked This Way",
+            "ReleaseDate": "11.02.2026",
+            "ThemeColorHex": "#cececeff",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca",
+                "Hanna Piździca:Wykonawca gościnny"
+            ],
+            "SingerString": "Elżbietka",
+            "AssetBundle": "ftw",
+            "Visible": true,
+            "ExcludeInSearch": true,
+            "FeaturedOnAlbum": 3
+        },
+        {
+            "ID": 3,
+            "Name": "Fucked This Way (Deluxe Edition)",
+            "RefName": "Fucked This Way",
+            "ReleaseDate": "11.03.2026",
+            "ThemeColorHex": "#C58484",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca",
+                "Hanna Piździca:Wykonawca gościnny"
+            ],
+            "SingerString": "Elżbietka",
+            "AssetBundle": "ftw",
+            "Visible": true,
+            "DeluxeTrack": true
+        },
+        {
+            "ID": 4,
+            "Name": "SUTPOP",
+            "ReleaseDate": "11.11.2026",
+            "ThemeColorHex": "#FF00A4",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "AssetBundle": "sutpop",
+            "Visible": false
+        }
+    ],
+    "Singles": [
+        {
+            "ID": 1,
+            "Name": "Elżbietka Film",
+            "ReleaseDate": "11.11.2021",
+            "ThemeColorHex": "#ff0000",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true
+        },
+        {
+            "ID": 2,
+            "Name": "Zjebuska",
+            "ReleaseDate": "3.7.2022",
+            "ThemeColorHex": "#c4f6ff",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true
+        },
+        {
+            "ID": 3,
+            "Name": "Hannallah",
+            "ReleaseDate": "12.12.2025",
+            "ThemeColorHex": "#009700",
+            "Singers": [
+                "Hanna Piździca:Główny wykonawca"
+            ],
+            "SingerString": "Hanna",
+            "Visible": true,
+            "FeaturedOnAlbum": 2,
+            "TrackOnAlbum": 16
+        },
+        {
+            "ID": 4,
+            "Name": "Bombki",
+            "ReleaseDate": "24.12.2025",
+            "ThemeColorHex": "#C24270",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true,
+            "FeaturedOnAlbum": 2,
+            "TrackOnAlbum": 6
+        },
+        {
+            "ID": 5,
+            "Name": "HOELESS",
+            "ReleaseDate": "29.12.2025",
+            "ThemeColorHex": "#0A1323",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true,
+            "FeaturedOnAlbum": 2,
+            "TrackOnAlbum": 10
+        },
+        {
+            "ID": 6,
+            "Name": "Perfekt Prostituti",
+            "ReleaseDate": "17.1.2026",
+            "ThemeColorHex": "#B20000",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true,
+            "FeaturedOnAlbum": 2,
+            "TrackOnAlbum": 1
+        },
+        {
+            "ID": 7,
+            "Name": "Juzek?",
+            "RefName": "Juzek",
+            "ReleaseDate": "1.2.2026",
+            "ThemeColorHex": "#B20000",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca, Poszkodowana",
+                "Juzek Trela:Napastnik, nie chciał sie ruchać"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": false,
+            "FeaturedOnAlbum": 2,
+            "TrackOnAlbum": 4
+        }
+    ]
+}
