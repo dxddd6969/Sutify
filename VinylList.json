@@ -1,0 +1,129 @@
+{
+    "VinylList": [
+        {
+            "Name": "Liż mi sutki",
+            "ForAlbum": true,
+            "VisibleInStore": true,
+            "ID": 1,
+            "List": [
+                {
+                    "ID": 0,
+                    "Name": "Standardowy Czarny Vinyl",
+                    "Texture": "Vinyl_Black",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "ShopThumbnail": "LMS_Black"
+                },
+                {
+                    "ID": 1,
+                    "Name": "Specjalny Różowy Vinyl",
+                    "Texture": "Vinyl_White",
+                    "Color": "#FF8CA7",
+                    "Price": 500,
+                    "OnSale": true,
+                    "ShopThumbnail": "LMS_Pink"
+                },
+                {
+                    "ID": 2,
+                    "Name": "Specjalny Vinyl Ze Zdjęciem",
+                    "Texture": "LMS_PictureVinyl",
+                    "Color": "#FFFFFF",
+                    "Price": 1500,
+                    "OnSale": true,
+                    "ShopThumbnail": "LMS_Picture"
+                }
+            ]
+        },
+        {
+            "Name": "Fucked This Way",
+            "ForAlbum": true,
+            "VisibleInStore": true,
+            "ID": 2,
+            "List": [
+                {
+                    "ID": 0,
+                    "Name": "Standardowy Czarny Vinyl",
+                    "Texture": "Vinyl_Black",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "ShopThumbnail": "FTW_Black"
+                },
+                {
+                    "ID": 1,
+                    "Name": "Specjalny Czerwony Vinyl",
+                    "Texture": "FTW_RedVinyl",
+                    "Color": "#FFFFFF",
+                    "Price": 1000,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTW_Red"
+                },
+                {
+                    "ID": 2,
+                    "Name": "Specjalny Vinyl Ze Zdjęciem Prostytutki",
+                    "Texture": "FTW_PictureVinyl",
+                    "Color": "#FFFFFF",
+                    "Price": 1700,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTW_Picture"
+                }
+            ]
+        },
+        {
+            "Name": "Fucked This Way (Deluxe Edition)",
+            "ForAlbum": true,
+            "ID": 3,
+            "List": [
+                {
+                    "ID": 0,
+                    "Name": "Standardowy Czarny Vinyl",
+                    "Texture": "Vinyl_Black",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "ShopThumbnail": "FTWD_Black"
+                },
+                {
+                    "ID": 1,
+                    "Name": "Jasno Różowy Vinyl",
+                    "Texture": "FTWD_LightPink",
+                    "Color": "#FFFFFF",
+                    "Price": 1400,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTWD_LPink"
+                },
+                {
+                    "ID": 2,
+                    "Name": "Jasno Czerwony Vinyl",
+                    "Texture": "FTWD_LightRed",
+                    "Color": "#FFFFFF",
+                    "Price": 1400,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTWD_LRed"
+                },
+                {
+                    "ID": 3,
+                    "Name": "Juzek?",
+                    "Texture": "FTWD_JuzekVinyl",
+                    "Color": "#FFFFFF",
+                    "Price": 2200,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTWD_Juzek"
+                }
+            ]
+        },
+        {
+            "Name": "SUTPOP",
+            "ForAlbum": true,
+            "ID": 4,
+            "List": [
+                {
+                    "ID": 0,
+                    "Name": "Standardowy Czarny Vinyl",
+                    "Texture": "Vinyl_Black",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "ShopThumbnail": "STP_Black"
+                }
+            ]
+        }
+    ]
+}
