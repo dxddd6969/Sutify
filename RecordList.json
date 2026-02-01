@@ -146,7 +146,7 @@
                 "Juzek Trela:Napastnik, nie chciał sie ruchać"
             ],
             "SingerString": "Elżbietka",
-            "Visible": false,
+            "Visible": true,
             "FeaturedOnAlbum": 2,
             "TrackOnAlbum": 4
         }
