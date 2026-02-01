@@ -1,5 +1,5 @@
 {
-    "AlbumCount": 3,
+    "AlbumCount": 2,
     "Albums": [
         {
             "ID": 1,
@@ -44,7 +44,7 @@
             ],
             "SingerString": "Elżbietka",
             "AssetBundle": "ftw",
-            "Visible": true,
+            "Visible": false,
             "DeluxeTrack": true
         },
         {
