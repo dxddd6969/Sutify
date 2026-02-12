@@ -66,48 +66,43 @@
                     "Price": 1700,
                     "OnSale": true,
                     "ShopThumbnail": "FTW_Picture"
+                },
+                {
+                    "ID": 3,
+                    "Name": "Jasno Różowy Vinyl",
+                    "Texture": "FTWD_LightPink",
+                    "Color": "#FFFFFF",
+                    "Price": 1400,
+                    "OnSale": false,
+                    "ShopThumbnail": "FTWD_LPink"
+                },
+                {
+                    "ID": 4,
+                    "Name": "Jasno Czerwony Vinyl",
+                    "Texture": "FTWD_LightRed",
+                    "Color": "#FFFFFF",
+                    "Price": 1400,
+                    "OnSale": false,
+                    "ShopThumbnail": "FTWD_LRed"
+                },
+                {
+                    "ID": 5,
+                    "Name": "Juzek?",
+                    "Texture": "FTWD_JuzekVinyl",
+                    "Color": "#FFFFFF",
+                    "Price": 2200,
+                    "OnSale": false,
+                    "ShopThumbnail": "FTWD_Juzek"
                 }
             ]
         },
         {
             "Name": "Fucked This Way (Deluxe Edition)",
-            "ForAlbum": true,
+            "TakeFrom": 2,
             "ID": 3,
             "List": [
                 {
-                    "ID": 0,
-                    "Name": "Standardowy Czarny Vinyl",
-                    "Texture": "Vinyl_Black",
-                    "Color": "#FFFFFF",
-                    "OnSale": true,
-                    "ShopThumbnail": "FTWD_Black"
-                },
-                {
-                    "ID": 1,
-                    "Name": "Jasno Różowy Vinyl",
-                    "Texture": "FTWD_LightPink",
-                    "Color": "#FFFFFF",
-                    "Price": 1400,
-                    "OnSale": true,
-                    "ShopThumbnail": "FTWD_LPink"
-                },
-                {
-                    "ID": 2,
-                    "Name": "Jasno Czerwony Vinyl",
-                    "Texture": "FTWD_LightRed",
-                    "Color": "#FFFFFF",
-                    "Price": 1400,
-                    "OnSale": true,
-                    "ShopThumbnail": "FTWD_LRed"
-                },
-                {
-                    "ID": 3,
-                    "Name": "Juzek?",
-                    "Texture": "FTWD_JuzekVinyl",
-                    "Color": "#FFFFFF",
-                    "Price": 2200,
-                    "OnSale": true,
-                    "ShopThumbnail": "FTWD_Juzek"
+                    "ID": 0
                 }
             ]
         },
