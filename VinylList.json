@@ -73,7 +73,7 @@
                     "Texture": "FTWD_LightPink",
                     "Color": "#FFFFFF",
                     "Price": 1400,
-                    "OnSale": false,
+                    "OnSale": true,
                     "ShopThumbnail": "FTWD_LPink"
                 },
                 {
@@ -82,7 +82,7 @@
                     "Texture": "FTWD_LightRed",
                     "Color": "#FFFFFF",
                     "Price": 1400,
-                    "OnSale": false,
+                    "OnSale": true,
                     "ShopThumbnail": "FTWD_LRed"
                 },
                 {
@@ -91,7 +91,7 @@
                     "Texture": "FTWD_JuzekVinyl",
                     "Color": "#FFFFFF",
                     "Price": 2200,
-                    "OnSale": false,
+                    "OnSale": true,
                     "ShopThumbnail": "FTWD_Juzek"
                 }
             ]

@@ -1,5 +1,5 @@
 {
-    "AlbumCount": 2,
+    "AlbumCount": 3,
     "Albums": [
         {
             "ID": 1,
@@ -43,7 +43,7 @@
             ],
             "SingerString": "Elżbietka",
             "AssetBundle": "ftw",
-            "Visible": false,
+            "Visible": true,
             "DeluxeTrack": true
         },
         {
@@ -69,8 +69,7 @@
                 "Elżbietka Liczba:Główny wykonawca"
             ],
             "SingerString": "Elżbietka",
-            "Visible": true,
-            "MvUrl": "https://cdn.discordapp.com/attachments/1429229408224411781/1468514352515780807/efilm.mp4?ex=69844c11&is=6982fa91&hm=892ae044e93f5847da95daba4760bc69946263e7900543f6fc27bb61e99bee74&"
+            "Visible": true
         },
         {
             "ID": 2,
@@ -81,8 +80,7 @@
                 "Elżbietka Liczba:Główny wykonawca"
             ],
             "SingerString": "Elżbietka",
-            "Visible": true,
-            "MvUrl": "https://cdn.discordapp.com/attachments/1468517917082521642/1468525863812464661/ZjebuskaMv.mp4?ex=698456c9&is=69830549&hm=f77f4225dfc04d9f4dfbc4e24b732e8e31741d275d22c8d0b407e191dbacd83d&"
+            "Visible": true
         },
         {
             "ID": 3,
