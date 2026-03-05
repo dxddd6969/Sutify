@@ -159,6 +159,20 @@
             ],
             "SingerString": "Elżbietka",
             "Visible": true
+        },
+        {
+            "ID": 9,
+            "Name": "Piparazzi (Gdzie me matki)",
+            "RefName": "Piparazzi",
+            "ReleaseDate": "5.3.2026",
+            "ThemeColorHex": "#661D6D",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true,
+            "FeaturedOnAlbum": 4,
+            "TrackOnAlbum": 3
         }
     ]
 }
