@@ -93,6 +93,15 @@
                     "Price": 2200,
                     "OnSale": true,
                     "ShopThumbnail": "FTWD_Juzek"
+                },
+                {
+                    "ID": 6,
+                    "Name": "Pobawie Sie",
+                    "Texture": "FTWD_PobawieSie",
+                    "Color": "#FFFFFF",
+                    "Price": 5000,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTWD_PS"
                 }
             ]
         },
