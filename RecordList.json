@@ -148,6 +148,17 @@
             "Visible": true,
             "FeaturedOnAlbum": 2,
             "TrackOnAlbum": 4
+        },
+        {
+            "ID": 8,
+            "Name": "Elżbietka Rap",
+            "ReleaseDate": "14.1.2022",
+            "ThemeColorHex": "#9DC4E3",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true
         }
     ]
 }
