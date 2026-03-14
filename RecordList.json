@@ -173,6 +173,20 @@
             "Visible": true,
             "FeaturedOnAlbum": 4,
             "TrackOnAlbum": 3
+        },
+        {
+            "ID": 10,
+            "Name": "Anal",
+            "ReleaseDate": "14.3.2026",
+            "ThemeColorHex": "#C24577",
+            "Singers": [
+                "Elżbietka:Główny wykonawca",
+                "Grzesiu:Wykonawca gościnny"
+            ],
+            "SingerString": "Elżbietka Feat. Grzesiu",
+            "Visible": true,
+            "FeaturedOnAlbum": 4,
+            "TrackOnAlbum": 9
         }
     ]
 }
