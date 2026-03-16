@@ -118,6 +118,7 @@
         {
             "Name": "SUTPOP",
             "ForAlbum": true,
+            "VisibleInStore": true,
             "ID": 4,
             "List": [
                 {
@@ -126,7 +127,43 @@
                     "Texture": "Vinyl_Black",
                     "Color": "#FFFFFF",
                     "OnSale": true,
-                    "ShopThumbnail": "STP_Black"
+                    "ShopThumbnail": "SP_Black"
+                },
+                {
+                    "ID": 1,
+                    "Name": "Różowy SUTPOP Vinyl",
+                    "Texture": "SP_PinkVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 1000,
+                    "ShopThumbnail": "SP_Pink"
+                },
+                {
+                    "ID": 2,
+                    "Name": "Niebieski SUTPOP Vinyl",
+                    "Texture": "SP_BlueVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 1400,
+                    "ShopThumbnail": "SP_Blue"
+                },
+                {
+                    "ID": 3,
+                    "Name": "Specjalny Vinyl z Odbitym Sutem Elżbietki",
+                    "Texture": "SP_SutVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 10000,
+                    "ShopThumbnail": "SP_Sut"
+                },
+                {
+                    "ID": 4,
+                    "Name": "Vinyl Ze Zdjęciem Sprawy Sądowej",
+                    "Texture": "SP_PictureVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2200,
+                    "ShopThumbnail": "SP_Mownica"
                 }
             ]
         }

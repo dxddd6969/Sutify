@@ -1,5 +1,5 @@
 {
-    "AlbumCount": 3,
+    "AlbumCount": 4,
     "Albums": [
         {
             "ID": 1,
@@ -13,7 +13,6 @@
                 "Dagmarka Trela:Wykonawca gościnny"
             ],
             "SingerString": "Elżbietka",
-            "AssetBundle": "lms",
             "Visible": true,
             "DeluxeTrack": true
         },
@@ -27,8 +26,8 @@
                 "Hanna Piździca:Wykonawca gościnny"
             ],
             "SingerString": "Elżbietka",
-            "AssetBundle": "ftw",
             "Visible": true,
+            "ExcludeInSearch": true,
             "FeaturedOnAlbum": 3
         },
         {
@@ -42,21 +41,20 @@
                 "Hanna Piździca:Wykonawca gościnny"
             ],
             "SingerString": "Elżbietka",
-            "AssetBundle": "ftw",
             "Visible": true,
             "DeluxeTrack": true
         },
         {
             "ID": 4,
             "Name": "SUTPOP",
-            "ReleaseDate": "11.11.2026",
+            "ReleaseDate": "16.3.2026",
             "ThemeColorHex": "#FF00A4",
             "Singers": [
-                "Elżbietka Liczba:Główny wykonawca"
+                "Elżbietka Liczba:Główny wykonawca",
+                "Grzesiu:Wykonawca gościnny"
             ],
             "SingerString": "Elżbietka",
-            "AssetBundle": "sutpop",
-            "Visible": false
+            "Visible": true
         }
     ],
     "Singles": [
