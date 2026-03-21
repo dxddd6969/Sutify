@@ -55,6 +55,18 @@
             ],
             "SingerString": "Elżbietka",
             "Visible": true
+        },
+        {
+            "ID": 5,
+            "Name": "SUTPOP ACT II",
+            "ReleaseDate": "11.11.2026",
+            "ThemeColorHex": "#0A5BFF",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": false,
+            "HasDiscTwo": true
         }
     ],
     "Singles": [
@@ -185,6 +197,20 @@
             "Visible": true,
             "FeaturedOnAlbum": 4,
             "TrackOnAlbum": 9
+        },
+        {
+            "ID": 11,
+            "Name": "Tropiki Ryki Tryki",
+            "ReleaseDate": "21.3.2026",
+            "ThemeColorHex": "#D0653F",
+            "Singers": [
+                "Elżbietka:Główny wykonawca",
+                "Hamak:Poszkodowany"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true,
+            "FeaturedOnAlbum": 5,
+            "TrackOnAlbum": 1
         }
     ]
 }
