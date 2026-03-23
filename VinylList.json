@@ -1,5 +1,10 @@
 {
     "BundleVersion": 2,
+    "News": {
+        "Label": "Nowy album a z nim <b>vinyle</b>!",
+        "Info": "Zobacz 4 nowe vinyle z wydania albumu <b>SUTPOP</b>.\nW tym jeden specjalny <b>SUT VINYL</b>.",
+        "ImageVersion": 1
+    },
     "VinylList": [
         {
             "Name": "Liż mi sutki",
@@ -164,6 +169,16 @@
                     "OnSale": true,
                     "Price": 2200,
                     "ShopThumbnail": "SP_Mownica"
+                }
+            ]
+        },
+        {
+            "Name": "SUTPOP ACT II",
+            "TakeFrom": 4,
+            "ID": 5,
+            "List": [
+                {
+                    "ID": 0
                 }
             ]
         }
