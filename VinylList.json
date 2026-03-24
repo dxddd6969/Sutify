@@ -26,6 +26,7 @@
                     "Texture": "Vinyl_White",
                     "Color": "#FF8CA7",
                     "Price": 500,
+                    "Discount": 250,
                     "OnSale": true,
                     "ShopThumbnail": "LMS_Pink"
                 },
@@ -35,6 +36,7 @@
                     "Texture": "LMS_PictureVinyl",
                     "Color": "#FFFFFF",
                     "Price": 1500,
+                    "Discount": 500,
                     "OnSale": true,
                     "ShopThumbnail": "LMS_Picture"
                 }
