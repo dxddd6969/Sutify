@@ -1,8 +1,8 @@
 {
-    "BundleVersion": 3,
+    "BundleVersion": 5,
     "News": {
-        "Label": "Nowy album a z nim <b>vinyle</b>!",
-        "Info": "Zobacz 4 nowe vinyle z wydania albumu <b>SUTPOP</b>.\nW tym jeden specjalny <b>SUT VINYL</b>.",
+        "Label": "Nowe vinyle prosto z piekło!",
+        "Info": "Elżbietka dostała okres przy tworzeniu vinyli!\nZ tej okazji dostępne są nowe vinyle.\n\nNowy osikany vinyl przez Zosike dla albumu <b>Liż mi sutki.</b>\nZaokresiony i diabelski vinyl dla <b>Fucked This Way</b>!",
         "ImageVersion": 1
     },
     "VinylList": [
@@ -26,7 +26,6 @@
                     "Texture": "Vinyl_White",
                     "Color": "#FF8CA7",
                     "Price": 500,
-                    "Discount": 250,
                     "OnSale": true,
                     "ShopThumbnail": "LMS_Pink"
                 },
@@ -36,9 +35,17 @@
                     "Texture": "LMS_PictureVinyl",
                     "Color": "#FFFFFF",
                     "Price": 1500,
-                    "Discount": 500,
                     "OnSale": true,
                     "ShopThumbnail": "LMS_Picture"
+                },
+                {
+                    "ID": 3,
+                    "Name": "Osikany Vinyl Przez Zosike",
+                    "Texture": "LMS_Orange",
+                    "Color": "#FFFFFF",
+                    "Price": 2000,
+                    "OnSale": true,
+                    "ShopThumbnail": "LMS_OrangeVinyl"
                 }
             ]
         },
@@ -109,6 +116,24 @@
                     "Price": 5000,
                     "OnSale": true,
                     "ShopThumbnail": "FTWD_PS"
+                },
+                {
+                    "ID": 7,
+                    "Name": "Zaokresiony Vinyl",
+                    "Texture": "FTWD_SplashRed",
+                    "Color": "#FFFFFF",
+                    "Price": 2300,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTWD_SplashRedVinyl"
+                },
+                {
+                    "ID": 8,
+                    "Name": "Diabelski Czerwony Vinyl",
+                    "Texture": "FTWD_ScaryRed",
+                    "Color": "#FFFFFF",
+                    "Price": 2600,
+                    "OnSale": true,
+                    "ShopThumbnail": "FTWD_ScaryRedVinyl"
                 }
             ]
         },
