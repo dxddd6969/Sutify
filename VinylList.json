@@ -1,5 +1,5 @@
 {
-    "BundleVersion": 2,
+    "BundleVersion": 3,
     "News": {
         "Label": "Nowy album a z nim <b>vinyle</b>!",
         "Info": "Zobacz 4 nowe vinyle z wydania albumu <b>SUTPOP</b>.\nW tym jeden specjalny <b>SUT VINYL</b>.",
@@ -171,6 +171,15 @@
                     "OnSale": true,
                     "Price": 2200,
                     "ShopThumbnail": "SP_Mownica"
+                },
+                {
+                    "ID": 5,
+                    "Name": "Specjalny czarno-różowy SUTPOP Vinyl",
+                    "Texture": "STP_Special",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2500,
+                    "ShopThumbnail": "STP_SpecialVinyl"
                 }
             ]
         },
