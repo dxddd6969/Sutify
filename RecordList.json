@@ -1,5 +1,4 @@
 {
-    "AlbumCount": 4,
     "Albums": [
         {
             "ID": 1,
@@ -14,7 +13,8 @@
             ],
             "SingerString": "Elżbietka",
             "Visible": true,
-            "DeluxeTrack": true
+            "DeluxeTrack": true,
+            "SpawnCD": true
         },
         {
             "ID": 2,
@@ -28,7 +28,8 @@
             "SingerString": "Elżbietka",
             "Visible": true,
             "ExcludeInSearch": true,
-            "FeaturedOnAlbum": 3
+            "FeaturedOnAlbum": 3,
+            "SpawnCD": true
         },
         {
             "ID": 3,
@@ -42,7 +43,8 @@
             ],
             "SingerString": "Elżbietka",
             "Visible": true,
-            "DeluxeTrack": true
+            "DeluxeTrack": true,
+            "SpawnCD": true
         },
         {
             "ID": 4,
@@ -54,7 +56,8 @@
                 "Grzesiu:Wykonawca gościnny"
             ],
             "SingerString": "Elżbietka",
-            "Visible": true
+            "Visible": true,
+            "SpawnCD": true
         },
         {
             "ID": 5,
@@ -66,7 +69,20 @@
             ],
             "SingerString": "Elżbietka",
             "Visible": false,
-            "HasDiscTwo": true
+            "HasDiscTwo": true,
+            "SpawnCD": true
+        },
+        {
+            "ID": 6,
+            "Name": "SUTPOP HORNY EDITION",
+            "ReleaseDate": "11.11.2026",
+            "ThemeColorHex": "#C07597",
+            "Singers": [
+                "Elżbietka Liczba:Główny wykonawca"
+            ],
+            "SingerString": "Elbieka",
+            "Visible": true,
+            "SpawnCD": true
         }
     ],
     "Singles": [
@@ -224,7 +240,7 @@
             "SingerString": "Elżbietka",
             "Visible": true,
             "FeaturedOnAlbum": 5,
-            "TrackOnAlbum": 13
+            "TrackOnAlbum": 17
         }
     ]
 }
