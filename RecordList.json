@@ -70,7 +70,7 @@
             "SingerString": "Elżbietka",
             "Visible": false,
             "HasDiscTwo": true,
-            "SpawnCD": true
+            "SpawnCD": false
         },
         {
             "ID": 6,
@@ -81,8 +81,8 @@
                 "Elżbietka Liczba:Główny wykonawca"
             ],
             "SingerString": "Elbieka",
-            "Visible": true,
-            "SpawnCD": true
+            "Visible": false,
+            "SpawnCD": false
         }
     ],
     "Singles": [
