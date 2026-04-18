@@ -69,7 +69,6 @@
             ],
             "SingerString": "Elżbietka",
             "Visible": false,
-            "HasDiscTwo": true,
             "SpawnCD": false
         },
         {
@@ -240,7 +239,7 @@
             "SingerString": "Elżbietka",
             "Visible": true,
             "FeaturedOnAlbum": 5,
-            "TrackOnAlbum": 17
+            "TrackOnAlbum": 20
         }
     ]
 }
