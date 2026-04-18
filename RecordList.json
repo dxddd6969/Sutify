@@ -62,14 +62,14 @@
         {
             "ID": 5,
             "Name": "SUTPOP ACT II",
-            "ReleaseDate": "11.11.2026",
+            "ReleaseDate": "19.4.2026",
             "ThemeColorHex": "#0A5BFF",
             "Singers": [
                 "Elżbietka Liczba:Główny wykonawca"
             ],
             "SingerString": "Elżbietka",
-            "Visible": false,
-            "SpawnCD": false
+            "Visible": true,
+            "SpawnCD": true
         },
         {
             "ID": 6,

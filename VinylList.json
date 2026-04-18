@@ -1,9 +1,9 @@
 {
-    "BundleVersion": 5,
+    "BundleVersion": 6,
     "News": {
-        "Label": "Nowe vinyle prosto z piekła!",
-        "Info": "Elżbietka dostała okres przy tworzeniu vinyli!\nZ tej okazji dostępne są nowe vinyle.\n\nNowy osikany vinyl przez Zosike dla albumu <b>Liż mi sutki.</b>\nZaokresiony i diabelski vinyl dla <b>Fucked This Way</b>!",
-        "ImageVersion": 3
+        "Label": "SUTPOP Powraca!",
+        "Info": "To już 2 akt <b>SUTPOPU!</b> a z nim wypierdziało nowe vinyle!\nElżbietka wypalcowała je myśląc właśnie o <b>SUTPOP ACT II</b>.",
+        "ImageVersion": 4
     },
     "VinylList": [
         {
@@ -200,21 +200,108 @@
                 {
                     "ID": 5,
                     "Name": "Specjalny czarno-różowy SUTPOP Vinyl",
-                    "Texture": "STP_Special",
+                    "Texture": "SP_Special",
                     "Color": "#FFFFFF",
                     "OnSale": true,
                     "Price": 2500,
-                    "ShopThumbnail": "STP_SpecialVinyl"
+                    "ShopThumbnail": "SP_SpecialVinyl"
                 }
             ]
         },
         {
             "Name": "SUTPOP ACT II",
-            "TakeFrom": 4,
+            "ForAlbum": true,
+            "VisibleInStore": true,
             "ID": 5,
             "List": [
                 {
-                    "ID": 0
+                    "ID": 0,
+                    "Name": "Standardowy Czarny Vinyl",
+                    "Texture": "Vinyl_Black",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "ShopThumbnail": "SPII_Black"
+                },
+                {
+                    "ID": 1,
+                    "Name": "Specjalny czarno-niebieski SUTPOP Vinyl",
+                    "Texture": "SPII_SpecialVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2500,
+                    "ShopThumbnail": "SPII_SpecialVinylThumb"
+                },
+                {
+                    "ID": 2,
+                    "Name": "Niebieski Vinyl",
+                    "Texture": "SPII_BlueVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 1000,
+                    "ShopThumbnail": "SPII_BlueThumb"
+                },
+                {
+                    "ID": 3,
+                    "Name": "Niebieski Vinyl z jakimis paskami",
+                    "Texture": "SPII_BlueVinyl2",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 1000,
+                    "ShopThumbnail": "SPII_BlueTwoThumb"
+                },
+                {
+                    "ID": 4,
+                    "Name": "Low Quality Vinyl",
+                    "Texture": "SPII_DisortedVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 1400,
+                    "ShopThumbnail": "SPII_DisortedThumb"
+                },
+                {
+                    "ID": 5,
+                    "Name": "Do jasnej sutpopki",
+                    "Texture": "SPII_BrightVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 1400,
+                    "ShopThumbnail": "SPII_BrightsThumb"
+                },
+                {
+                    "ID": 6,
+                    "Name": "Riki Tryki Vinyl",
+                    "Texture": "SPII_RikiTryki",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2199,
+                    "ShopThumbnail": "SPII_RikiTrykiThumb"
+                },
+                {
+                    "ID": 7,
+                    "Name": "Riki Nie Tryki Vinyl",
+                    "Texture": "SPII_RikiNieTryki",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2299,
+                    "ShopThumbnail": "SPII_RikiNieTrykiThumb"
+                },
+                {
+                    "ID": 8,
+                    "Name": "Ale ja nie jade",
+                    "Texture": "SPII_NieJadeVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2249,
+                    "ShopThumbnail": "SPII_NieJadeThumb"
+                },
+                {
+                    "ID": 9,
+                    "Name": "Lady Vinyl",
+                    "Texture": "SPII_Lady",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2299,
+                    "ShopThumbnail": "SPII_LadyThumb"
                 }
             ]
         },
