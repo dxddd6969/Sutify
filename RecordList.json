@@ -2,84 +2,44 @@
     "Albums": [
         {
             "ID": 1,
-            "Name": "Liż mi sutki",
-            "ReleaseDate": "8.11.2025",
-            "ThemeColorHex": "#F86E9D",
-            "Singers": [
-                "Elżbietka Liczba:Główny wykonawca",
-                "Hibietto Dragina:Wykonawca gościnny",
-                "Ada:Wykonawca gościnny",
-                "Dagmarka Trela:Wykonawca gościnny"
-            ],
-            "SingerString": "Elżbietka",
+            "RefName": "Liż mi sutki",
             "Visible": true,
-            "DeluxeTrack": true,
             "SpawnCD": true
         },
         {
             "ID": 2,
-            "Name": "Fucked This Way",
-            "ReleaseDate": "11.02.2026",
-            "ThemeColorHex": "#cececeff",
-            "Singers": [
-                "Elżbietka Liczba:Główny wykonawca",
-                "Hanna Piździca:Wykonawca gościnny"
-            ],
-            "SingerString": "Elżbietka",
+            "RefName": "Fucked This Way",
             "Visible": true,
             "ExcludeInSearch": true,
-            "FeaturedOnAlbum": 3,
             "SpawnCD": true
         },
         {
             "ID": 3,
-            "Name": "Fucked This Way (Deluxe Edition)",
-            "RefName": "Fucked This Way",
-            "ReleaseDate": "14.02.2026",
-            "ThemeColorHex": "#C58484",
-            "Singers": [
-                "Elżbietka Liczba:Główny wykonawca",
-                "Hanna Piździca:Wykonawca gościnny"
-            ],
-            "SingerString": "Elżbietka",
+            "RefName": "Fucked This Way (Deluxe Edition)",
             "Visible": true,
-            "DeluxeTrack": true,
             "SpawnCD": true
         },
         {
             "ID": 4,
-            "Name": "SUTPOP",
-            "ReleaseDate": "16.3.2026",
-            "ThemeColorHex": "#FF00A4",
-            "Singers": [
-                "Elżbietka Liczba:Główny wykonawca",
-                "Grzesiu:Wykonawca gościnny"
-            ],
-            "SingerString": "Elżbietka",
+            "RefName": "SUTPOP",
             "Visible": true,
             "SpawnCD": true
         },
         {
             "ID": 5,
-            "Name": "SUTPOP ACT II",
-            "ReleaseDate": "19.4.2026",
-            "ThemeColorHex": "#0A5BFF",
-            "Singers": [
-                "Elżbietka Liczba:Główny wykonawca"
-            ],
-            "SingerString": "Elżbietka",
+            "RefName": "SUTPOP ACT II",
             "Visible": true,
             "SpawnCD": true
         },
         {
             "ID": 6,
-            "Name": "SUTPOP HORNY EDITION",
-            "ReleaseDate": "11.11.2026",
-            "ThemeColorHex": "#C07597",
-            "Singers": [
-                "Elżbietka Liczba:Główny wykonawca"
-            ],
-            "SingerString": "Elbieka",
+            "RefName": "SUTPOP HORNY EDITION",
+            "Visible": false,
+            "SpawnCD": false
+        },
+        {
+            "ID": 7,
+            "RefName": "Sut Monster",
             "Visible": false,
             "SpawnCD": false
         }
@@ -240,6 +200,19 @@
             "Visible": true,
             "FeaturedOnAlbum": 5,
             "TrackOnAlbum": 20
+        },
+        {
+            "ID": 13,
+            "Name": "Jak Mogłeś?",
+            "RefName": "Jak Mogłeś",
+            "ReleaseDate": "1.5.2026",
+            "ThemeColorHex": "#8E9496:#77746D",
+            "Singers": [
+                "Elżbietka:Główny wykonawca, Jedzie",
+                "Dagmarka:Ta z hotdogiem"
+            ],
+            "SingerString": "Elżbietka",
+            "Visible": true
         }
     ]
 }
