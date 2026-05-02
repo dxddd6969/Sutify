@@ -307,11 +307,43 @@
         },
         {
             "Name": "SUTPOP HORNY EDITION",
-            "TakeFrom": 4,
+            "ForAlbum": true,
+            "VisibleInStore": true,
             "ID": 6,
             "List": [
                 {
-                    "ID": 0
+                    "ID": 0,
+                    "Name": "Standardowy Czarny Vinyl",
+                    "Texture": "Vinyl_Black",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "ShopThumbnail": "ZF_Black"
+                },
+                {
+                    "ID": 1,
+                    "Name": "Za Frita",
+                    "Texture": "Zafrita",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "ShopThumbnail": "ZafritaThumb"
+                },
+                {
+                    "ID": 2,
+                    "Name": "Ahh",
+                    "Texture": "ZF_AhhVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2169,
+                    "ShopThumbnail": "ZF_AhhThumb"
+                },
+                {
+                    "ID": 3,
+                    "Name": "Ahhh",
+                    "Texture": "ZF_AhhhVinyl",
+                    "Color": "#FFFFFF",
+                    "OnSale": true,
+                    "Price": 2169,
+                    "ShopThumbnail": "ZF_AhhhThumb"
                 }
             ]
         }

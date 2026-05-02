@@ -34,8 +34,8 @@
         {
             "ID": 6,
             "RefName": "SUTPOP HORNY EDITION",
-            "Visible": false,
-            "SpawnCD": false
+            "Visible": true,
+            "SpawnCD": true
         },
         {
             "ID": 7,
