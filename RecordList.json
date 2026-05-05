@@ -36,12 +36,6 @@
             "RefName": "SUTPOP HORNY EDITION",
             "Visible": true,
             "SpawnCD": true
-        },
-        {
-            "ID": 7,
-            "RefName": "Sut Monster",
-            "Visible": false,
-            "SpawnCD": false
         }
     ],
     "Singles": [
@@ -208,10 +202,20 @@
             "ReleaseDate": "1.5.2026",
             "ThemeColorHex": "#8E9496:#77746D",
             "Singers": [
-                "Elżbietka:Główny wykonawca, Jedzie",
-                "Dagmarka:Ta z hotdogiem"
+                "Elżbietka:Główny wykonawca"
             ],
             "SingerString": "Elżbietka",
+            "Visible": true
+        },
+        {
+            "ID": 14,
+            "Name": "Se Tromb",
+            "ReleaseDate": "5.5.2026",
+            "ThemeColorHex": "#8E9496:#A95199",
+            "Singers": [
+                "Hibietto Dragina:Główny Wykonawca"
+            ],
+            "SingerString": "Hibiet",
             "Visible": true
         }
     ]
