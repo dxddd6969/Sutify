@@ -206,17 +206,6 @@
             ],
             "SingerString": "Elżbietka",
             "Visible": true
-        },
-        {
-            "ID": 14,
-            "Name": "Se Tromb",
-            "ReleaseDate": "5.5.2026",
-            "ThemeColorHex": "#8E9496:#A95199",
-            "Singers": [
-                "Hibietto Dragina:Główny Wykonawca"
-            ],
-            "SingerString": "Hibiet",
-            "Visible": true
         }
     ]
 }
